@@ -1,1 +1,1 @@
-# HTW_coding_competitions_problems
+# Coding competitions problems
